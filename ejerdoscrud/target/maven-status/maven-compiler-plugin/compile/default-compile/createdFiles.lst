@@ -1,0 +1,12 @@
+com\wondertech\ejerdoscrud\service\DuenioService.class
+com\wondertech\ejerdoscrud\service\MascotaService.class
+com\wondertech\ejerdoscrud\dto\MascotaDuenioDTO.class
+com\wondertech\ejerdoscrud\controller\MascotaController.class
+com\wondertech\ejerdoscrud\repository\IMascotaRepository.class
+com\wondertech\ejerdoscrud\model\Duenio.class
+com\wondertech\ejerdoscrud\service\IDuenioService.class
+com\wondertech\ejerdoscrud\EjerdoscrudApplication.class
+com\wondertech\ejerdoscrud\model\Mascota.class
+com\wondertech\ejerdoscrud\repository\IDuenioRepository.class
+com\wondertech\ejerdoscrud\controller\DuenioController.class
+com\wondertech\ejerdoscrud\service\IMascotaService.class
